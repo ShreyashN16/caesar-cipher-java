@@ -13,7 +13,7 @@
 
 https://github.com/your-username/caesar-cipher-gui/assets/demo.gif
 
-![Caesar Cipher Animation](https://media.giphy.com/media/YqyyNRAV5YzkuEKZP2/giphy.gif)
+![Caesar Cipher Animation](https://i.imgur.com/IYCu7c4.gif)
 
 ---
 
