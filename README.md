@@ -1,9 +1,6 @@
 # 🔐 Caesar Cipher GUI Application (Java Swing)
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/caesar-cipher-gui?style=social)](https://github.com/your-username/caesar-cipher-gui/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/caesar-cipher-gui?style=social)](https://github.com/your-username/caesar-cipher-gui/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/caesar-cipher-gui)](https://github.com/your-username/caesar-cipher-gui/issues)
-[![License](https://img.shields.io/github/license/your-username/caesar-cipher-gui)](LICENSE)
+
 
 > A simple and interactive Java GUI application to encrypt and decrypt messages using the **Caesar Cipher** technique. Built using **Java Swing**.
 
